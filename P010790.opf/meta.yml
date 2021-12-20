@@ -1,7 +1,7 @@
 id: P010790
 initial_creation_type: ocr
 created_at: 31/03/2020
-last_modified_at: 25/11/2021
+last_modified_at: 2021-12-20 10:24:38.732984
 source_metadata:
   id: bdr:W6458
   title: ཡ་མཚན་སྤྲུལ་པའི་གླེགས་བམ
@@ -13,3 +13,5 @@ source_metadata:
       volume_number: 7
       total_pages: 179
       base_file: v001.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
